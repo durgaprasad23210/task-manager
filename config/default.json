@@ -1,0 +1,5 @@
+{
+    "port": 3000,
+    "sendgridAPIKey": "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",
+    "db": "mongodb://127.0.0.1:27017/task-manager-api"
+}

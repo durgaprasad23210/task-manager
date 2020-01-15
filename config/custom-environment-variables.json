@@ -1,0 +1,5 @@
+{
+    "port": "PORT",
+    "sendgridAPIKey": "sendgridAPIKey",
+    "db": "vidly_db"
+}
